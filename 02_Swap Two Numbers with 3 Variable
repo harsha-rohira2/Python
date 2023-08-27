@@ -1,0 +1,6 @@
+Num1 = 10
+Num2 = 12
+Num3 = Num1
+Num2 = Num3
+print(Num1)
+print(Num2)
