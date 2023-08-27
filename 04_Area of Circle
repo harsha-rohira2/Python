@@ -1,0 +1,6 @@
+# Print Area of circle 
+
+Pi=3.14
+rate = int(input("Enter the Radius"))
+AC = Pi*r**2
+print("Area of Circle is:",AC)
